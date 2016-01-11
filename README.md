@@ -1,5 +1,3 @@
-[![build status](http://gitlab.tutum.ixishosting.co.uk/ci/projects/2/status.png?ref=master)](http://gitlab.tutum.ixishosting.co.uk/ci/projects/2?ref=master)
-
 **This image is based off the official Solr image with modifications to work under Alpine Linux.**
 
 **https://hub.docker.com/r/library/solr/**
