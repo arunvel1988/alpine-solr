@@ -2,6 +2,8 @@
 
 **This image is based off the official Solr image with modifications to work under Alpine Linux.**
 
+**https://hub.docker.com/r/library/solr/**
+
 ***
 
 # How to use this Docker image
