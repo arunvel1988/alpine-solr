@@ -1,5 +1,5 @@
 FROM alpine:3.2
-MAINTAINER Michael Austin <ma@ixis.co.uk>
+MAINTAINER arunvel1988
 
 RUN apk --update add openjdk7-jre wget gnupg bash curl && rm -rf /var/cache/apk/*
 
